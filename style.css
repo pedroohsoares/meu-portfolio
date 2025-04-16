@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedro H Soares | Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Pedro H Soares</h1>
+    <p>Técnico em Marketing | Estudante de Sistemas de Informação</p>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Sou Pedro H Soares, um jovem técnico em marketing com paixão por design, tecnologia e inovação. Atualmente sou estagiário na PS BYTE e presto serviços para o escritório Camila Lima Advocacia, atuando com financeiro, TI e atendimento.</p>
+  </section>
+
+  <section id="objetivos">
+    <h2>Objetivos Profissionais</h2>
+    <ul>
+      <li>Atuar com design, tecnologia ou marketing</li>
+      <li>Trabalhar com criatividade e inovação</li>
+      <li>Empreender no digital</li>
+    </ul>
+  </section>
+
+  <section id="competencias">
+    <h2>Competências e Habilidades</h2>
+    <h3>Técnicas</h3>
+    <ul>
+      <li>Design Gráfico com Canva</li>
+      <li>Pacote Office</li>
+      <li>CapCut e edição de vídeo</li>
+      <li>Marketing Digital</li>
+    </ul>
+    <h3>Pessoais</h3>
+    <ul>
+      <li>Comunicação</li>
+      <li>Criatividade</li>
+      <li>Proatividade</li>
+    </ul>
+  </section>
+
+  <section id="projetos">
+    <h2>Projetos</h2>
+    <ul>
+      <li>Café com Propósito</li>
+      <li>Uma de Muitas – OAB Mulher</li>
+      <li>Identidade Visual PS BYTE</li>
+      <li>Camila Lima Advocacia</li>
+      <li>Fantasia de Marca – IVY PARK</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contato: seuemail@email.com | @seuuser</p>
+  </footer>
+</body>
+</html>
